@@ -1,4 +1,4 @@
-# Practice with Mongodb and Python
+# Practice with Mongodb, Python, Pymongo, and MongoDB Atlas
 
 
 ## Some References
@@ -10,6 +10,12 @@
 * https://www.mongodb.com/languages/python
 * https://pypi.org/project/pymongo/
 
+#
+## Set up Virtual Environment
+* python -m venv env
+* source env/Scripts/activate
+* pip install items
+* pip freeze > requirements.txt
 #
 ## Set up the Database
 Python 3.10.4
