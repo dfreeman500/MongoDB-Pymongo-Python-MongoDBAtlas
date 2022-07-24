@@ -11,6 +11,16 @@
 * https://pypi.org/project/pymongo/
 
 #
+<img src="images/screenshot.png" width="200">
+
+#
+## To Run
+* Clone the repo
+* pip install -r requirements.txt
+* Change database, connection string, and password as necessary
+
+
+#
 ## Set up Virtual Environment
 * python -m venv env
 * source env/Scripts/activate
@@ -62,4 +72,3 @@ Database
 MongoDB uses BSON, very similar to JSON
 
 
-20:53
